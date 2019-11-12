@@ -3,7 +3,7 @@ Modified Marlin 2.0 firmware for the BigTreeTech SKR1.3 with TMC2208 UART driver
 
 Features:
 * Compatibility with <a href="https://www.aliexpress.com/item/32978749024.html?spm=a2g0s.9042311.0.0.27424c4d3UaNlG">SKR1.3 from BigTreeTech</a>
-* Immediate compatibility with TMC2208 in UART mode
+* Immediate compatibility with TMC2208 in UART mode with Stealthchop and driver monitoring enabled
 * Works with the MPCNC with 5 motors via 5 stepper drivers and with end stops enabled
 * Marlin M122 enabled to allow diagnostics of TMC drivers
 * Babystepping is enabled to allow slight Z changes when running a project
