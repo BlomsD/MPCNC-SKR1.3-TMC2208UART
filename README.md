@@ -28,3 +28,6 @@ Source info:
 * Firmware is based on Ryan's <a href="https://www.v1engineering.com/marlin-firmware/">original MPCNC firmware</a> from V1Engineering 
 * The version of Marlin 2.0.X used is "414D bugfix-2.0.x" from "2019-10-18".
 * Thanks to <a href="https://www.youtube.com/channel/UCbgBDBrwsikmtoLqtpc59Bw">TeachingTech</a> for info on the SKR1.3 and pins.
+
+Changelog:
+* 12NOV2019 - V1.0.0 - Initial public release
